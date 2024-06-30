@@ -1,0 +1,77 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    text-align: center; /* Center align all text content */
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 2.5em;
+    margin-bottom: 5px;
+}
+
+h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.contact-links {
+    margin-bottom: 20px;
+}
+
+.contact-links a {
+    text-decoration: underline; /* Underline links */
+    color: #353535; /* Set link color */
+}
+
+.contact-links .divider {
+    color: #000000; /* Set divider color */
+    margin: 0 5px; /* Adjust margin for spacing */
+}
+
+.content {
+    max-width: 800px; /* Set a maximum width for better readability */
+    margin: 0 auto; /* Center align the content */
+    text-align: left; /* Align text content to the left */
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+.about-me {
+    color: #353535;
+}
+
+.job-entry {
+    margin-bottom: 20px; /* Add margin between each job entry */
+}
+
+.job-title {
+    font-weight: bold;
+}
+
+.job-duration {
+    color: #353535; /* Adjust color for job duration */
+    margin-top: -5px;
+    margin-bottom: -5px; /* Add margin between job title and duration */
+}
+
+.job-description {
+    color: #353535; /* Darker shade of gray for better readability */
+    margin-bottom: 15px;
+}
+
+.project-title {
+    font-weight: bold;
+}
+
+.project-description {
+    color: #353535;
+    margin-bottom: 15px;
+}
