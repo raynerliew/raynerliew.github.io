@@ -52,10 +52,6 @@ ul {
     margin-bottom: 20px; /* Add margin between each job entry */
 }
 
-.job-title {
-    /* font-weight: bold; */
-}
-
 .job-duration {
     color: #353535; /* Adjust color for job duration */
     margin-top: -20px;
